@@ -1,5 +1,5 @@
 #!/bin/bash
-MWD='/docker-entrypoint-wpcli.d'
+MWD='/assets/docker-entrypoint-wpcli.d'
 
 $MWD/00_base.sh
 $MWD/05_plugins.sh
