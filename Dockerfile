@@ -28,3 +28,5 @@ RUN apt-get update && apt-get install -y sudo less; \
   rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 COPY wp-su.sh /bin/wp
+
+COPY assets /assets
