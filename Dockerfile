@@ -6,7 +6,7 @@
 FROM wordpress:latest
 
 # OhMyDocker Version
-ENV OMDWP 1.0.3
+ENV OMDWP 1.0.4
 
 ENV WORDPRESS_DB_USER="" \
   WORDPRESS_DB_PASSWORD="" \
@@ -35,4 +35,4 @@ RUN apt-get update && apt-get install -y sudo less vim dig host; \
   chmod +x /assets/run.sh \
   chmod +x /assets/docker-entrypoint-wpcli.d/*.sh
 
-  ENTRYPOINT ["/assets/run.sh"]
+CMD /assets/run.sh
