@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'Configuring Plugins'
+echo '....Configuring Plugins....'
 WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
 
 # remove defaults

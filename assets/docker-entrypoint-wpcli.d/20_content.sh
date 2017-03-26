@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo 'Configuring WORDPRESS Content....'
+echo '....Configuring Content....'
+
 WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar'
-REMOTE_SRC='/var/www/html/remote_src'
-BASEURL='http://fisif-demo.ohmydocker.com:7771'
+BASEURL=$WORDPRESS_SITE_URL
 
 # remove default content
 $WP post delete 1 --force # "Hello World" post
@@ -44,13 +44,6 @@ title='Frequently Asked Questions'
 content='Frequently Asked Questions Page'
 postid=$($WP post create --post_content="$content" --post_type=page --post_title="$title" --porcelain)
 $WP post update $postid --post_status=publish --post_parent=$worker_overview_id
-
-#### worker - Contact Us
-title='Contact Us'
-content='Placeholder for Worker Contact Us page'
-postid=$($WP post create --post_content="$content" --post_type=page --post_title="$title" --porcelain)
-$WP post update $postid --post_status=publish --post_parent=$worker_overview_id
-
 
 #### Contact Us
 title='Contact Us'

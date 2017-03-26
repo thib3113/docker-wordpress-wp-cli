@@ -9,9 +9,9 @@ ADMIN_PASSWORD='opensesame'
 ADMIN_EMAIL='james@ohmydocker.com'
 REMOTE_SRC='/var/www/html/remote_src'
 
-echo 'Configuring FISIF WordPress instance....'
 WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
 
+echo '....Configuring Base....'
 # install the core
 $WP core install --allow-root --debug \
 	--url="$WORDPRESS_SITE_URL:$WORDPRESS_PORT" \
