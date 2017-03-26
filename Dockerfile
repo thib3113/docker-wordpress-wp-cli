@@ -35,4 +35,7 @@ RUN apt-get update && apt-get install -y sudo less vim dig host; \
   chmod +x /assets/run.sh \
   chmod +x /assets/docker-entrypoint-wpcli.d/*.sh
 
-CMD /assets/run.sh
+COPY docker-entrypoint-init.sh /usr/local/bin/
+
+ENTRYPOINT ["docker-entrypoint-init.sh"]
+CMD ["%%CMD%%"]
