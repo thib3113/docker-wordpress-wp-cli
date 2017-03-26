@@ -24,7 +24,7 @@ ENV WORDPRESS_DB_USER="" \
 COPY wp-su.sh /bin/wp
 
 # Bring in the assets
-COPY assets/* /assets/
+COPY assets /assets
 
 # Install Linux Apps and WP-CLI PHP Archive / Cleanup / Perms
 RUN apt-get update && apt-get install -y sudo less vim dig host; \
