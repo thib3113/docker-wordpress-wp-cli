@@ -33,5 +33,3 @@ RUN apt-get update && apt-get install -y sudo less vim dig host; \
   apt-get clean; \
   rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* \
   chmod +x /assets/*.sh
-
-RUN ["/bin/bash" "-c" "/assets/init.sh"]
