@@ -32,4 +32,7 @@ RUN apt-get update && apt-get install -y sudo less vim dig host; \
   chmod +x /bin/wp-cli.phar /bin/wp; \
   apt-get clean; \
   rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* \
+  chmod +x /assets/run.sh \
   chmod +x /assets/docker-entrypoint-wpcli.d/*.sh
+
+  ENTRYPOINT ["/assets/run.sh"]

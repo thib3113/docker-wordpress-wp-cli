@@ -1,8 +1,7 @@
 #!/bin/bash
-SLEEPTIME=60
-echo "Sleeping $SLEEPTIME seconds for MySQL service initialization";
-sleep $SLEEPTIME;
 
-echo 'Starting web services....';
+# Initialize WordPress
+/assets/init.sh
 
-/entrypoint.sh apache2-foreground;
+# Start the service using wordpress:latest docker-entrypoint.sh
+docker-entrypoint.sh
