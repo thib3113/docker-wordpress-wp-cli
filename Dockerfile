@@ -33,4 +33,4 @@ RUN apt-get update && apt-get install -y sudo less vim; \
   chmod +x /assets/docker-entrypoint-wpcli.d/*.sh; \
   chmod +x /assets/init.sh
 
-RUN /assets/init.sh;
+CMD /assets/init.sh
