@@ -1,5 +1,6 @@
 #!/bin/bash
 echo '....Configuring Base....'
+/usr/bin/env
 # install the core - variables starting with $WORDPRESS_ are
 # expected to be bash environment variables
 $WP core install --allow-root --debug \
