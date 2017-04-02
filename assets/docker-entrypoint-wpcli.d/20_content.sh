@@ -1,9 +1,8 @@
 #!/bin/bash
+echo '....Configuring Content....'
 
-echo 'Configuring WORDPRESS Content....'
-WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar'
-REMOTE_SRC='/var/www/html/remote_src'
-BASEURL='http://fisif-demo.ohmydocker.com:7771'
+WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
+BASEURL=$WORDPRESS_SITE_URL
 
 # remove default content
 $WP post delete 1 --force # "Hello World" post

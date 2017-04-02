@@ -1,7 +1,7 @@
 #!/bin/bash
-THEME='fisif-2016'
-WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar'
-LOGOURL='http://fisif-demo.ohmydocker.com:7771/wp-content/themes/fisif-2016/assets/images/fisif_logo.png'
+THEME='twentyseventeen'
+WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
+LOGOURL=''
 
 RGB_DRKBRWN='988777'
 RGB_LTBRWN='E2DCD0'
@@ -42,6 +42,3 @@ $WP theme mod set pwt_center_box_button_link "http://www.fisif.com"
 # display the result
 $WP theme mod get --all
 $WP theme status $THEME
-
-
-

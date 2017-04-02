@@ -2,7 +2,7 @@
 
 echo '[wp-cli user configuration]'
 
-WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar'
+WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
 SRC_DB='example_db'
 TS=`date +'%Y:%m:%d %H:%M:%S'`
 

@@ -1,22 +1,14 @@
 #!/bin/bash
-
-URL='http://demo.ohmydocker.com'
-PATH='/var/www/html'
-TITLE='The One-Click Wordpress Site'
-TAGLINE='YOUR alternative for building Wordpress Sites'
-ADMIN_USER='ocadmin'
-ADMIN_PASSWORD='opensesame'
-ADMIN_EMAIL='james@ohmydocker.com'
-REMOTE_SRC='/var/www/html/remote_src'
-
-echo 'Configuring FISIF WordPress instance....'
 WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
+WORDPRESS_PATH='/var/www/html'
 
-# install the core
+echo '....Configuring Base....'
+# install the core - variables starting with $WORDPRESS_ are
+# expected to be bash environment variables
 $WP core install --allow-root --debug \
 	--url="$WORDPRESS_SITE_URL:$WORDPRESS_PORT" \
-	--path="$PATH" \
-	--title="$TITLE" \
-	--admin_user="$ADMIN_USER" \
-	--admin_password="$ADMIN_PASSWORD" \
-	--admin_email="$ADMIN_EMAIL"
+	--path="$WORDPRESS_PATH" \
+	--title="$WORDPRESS_TITLE" \
+	--admin_user="$WORDPRESS_ADMIN_USER" \
+	--admin_password="$WORDPRESS_ADMIN_PASSWORD" \
+	--admin_email="$WORDPRESS_ADMIN_EMAIL"
