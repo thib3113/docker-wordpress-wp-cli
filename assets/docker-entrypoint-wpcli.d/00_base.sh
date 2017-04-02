@@ -5,6 +5,7 @@ WORDPRESS_PATH='/var/www/html'
 echo '....Configuring Base....'
 # install the core - variables starting with $WORDPRESS_ are
 # expected to be bash environment variables
+$WP core download --path="$WORDPRESS_PATH"
 $WP core install --allow-root --debug \
 	--url="$WORDPRESS_SITE_URL:$WORDPRESS_PORT" \
 	--path="$WORDPRESS_PATH" \
