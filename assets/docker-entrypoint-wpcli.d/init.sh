@@ -1,4 +1,7 @@
 #!/bin/bash
+WP="/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=$WORDPRESS_PATH"
+export WP;
+
 MWD='/assets/docker-entrypoint-wpcli.d'
 
 $MWD/00_base.sh

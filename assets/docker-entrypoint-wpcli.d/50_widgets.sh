@@ -1,5 +1,4 @@
 #!/bin/bash
-WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
 echo 'Configuring Widgets'
 
 # remove defaults
