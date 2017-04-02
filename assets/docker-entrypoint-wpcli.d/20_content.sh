@@ -1,7 +1,6 @@
 #!/bin/bash
 echo '....Configuring Content....'
 
-WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
 BASEURL=$WORDPRESS_SITE_URL
 
 # remove default content

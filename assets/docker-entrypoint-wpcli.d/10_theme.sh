@@ -1,6 +1,5 @@
 #!/bin/bash
 THEME='twentyseventeen'
-WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
 LOGOURL=''
 
 RGB_DRKBRWN='988777'

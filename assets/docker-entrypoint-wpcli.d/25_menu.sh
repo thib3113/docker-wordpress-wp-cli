@@ -1,5 +1,4 @@
 #!/bin/bash
-WP='/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html'
 BASEURL=$WORDPRESS_SITE_URL
 
 # setup menus - http://wp-cli.org/commands/menu/
