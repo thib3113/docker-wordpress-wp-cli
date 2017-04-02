@@ -9,3 +9,5 @@ MWD='/assets/docker-entrypoint-wpcli.d'
 #$MWD/25_menu.sh
 #$MWD/50_widgets.sh
 #$MWD/80_users.sh
+
+echo 'here we go'
