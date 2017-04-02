@@ -20,7 +20,7 @@ ENV WORDPRESS_DB_USER="" \
   WORDPRESS_TITLE="" \
   WORDPRESS_TAGLINE="" \
   WORDPRESS_PATH="/var/www/html" \
-  WP="/usr/bin/sudo -u www-data /bin/wp-cli.phar"
+  WP="/usr/bin/sudo -u www-data /bin/wp-cli.phar --path=/var/www/html"
 
 COPY wp-su.sh /bin/wp
 
