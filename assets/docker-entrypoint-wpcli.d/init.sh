@@ -10,4 +10,4 @@ MWD='/assets/docker-entrypoint-wpcli.d'
 #$MWD/50_widgets.sh
 #$MWD/80_users.sh
 
-echo 'here we go'
+sleep $SLEEPTIME;
