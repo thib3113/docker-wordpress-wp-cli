@@ -1,8 +1,7 @@
 #!/bin/bash
 echo '....Configuring Base....'
+
 if $($WP core is-installed); then
-	echo 'Wordpress is already installed..'
-  /usr/bin/env | grep 'W'
 fi
 
 # install the core - variables starting with $WORDPRESS_ are
@@ -11,7 +10,7 @@ if ! $($WP core is-installed); then
 
     # download fresh copy
     $WP core download
-    
+
     # create a wp-config file
     $WP core config \
       --dbname=$WORDPRESS_DB_NAME \
