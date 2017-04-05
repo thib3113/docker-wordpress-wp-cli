@@ -10,4 +10,6 @@ MWD='/assets/docker-entrypoint-wpcli.d'
 #$MWD/50_widgets.sh
 #$MWD/80_users.sh
 
+SLEEPTIME=3600
+echo "Sleeping $SLEEPTIME seconds to allow for manual debug";
 sleep $SLEEPTIME;
