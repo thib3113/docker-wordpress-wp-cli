@@ -2,6 +2,8 @@
 echo '....Configuring Base....'
 
 if $($WP core is-installed); then
+    echo 'Wordpress is already installed..';
+    /usr/bin/env | grep 'W';
 fi
 
 # install the core - variables starting with $WORDPRESS_ are
