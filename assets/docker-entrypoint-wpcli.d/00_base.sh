@@ -8,6 +8,17 @@ fi
 # install the core - variables starting with $WORDPRESS_ are
 # expected to be bash environment variables
 if ! $($WP core is-installed); then
+
+    # download fresh copy
+    $WP core download
+    
+    # create a wp-config file
+    $WP core config \
+      --dbname=$WORDPRESS_DB_NAME \
+      --dbuser=$WORDPRESS_DB_USER \
+      --dbpass=$WORDPRESS_DB_PASSWORD \
+      --locale=en_US
+
 		# perform a new install
 		$WP core install --allow-root --debug \
 			--url="$WORDPRESS_SITE_URL:$WORDPRESS_PORT" \
