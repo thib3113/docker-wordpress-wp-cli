@@ -24,6 +24,8 @@ ENV WORDPRESS_DB_USER="" \
 
 COPY assets/wp-su.sh /bin/wp
 
+COPY assets/wp-cli.yml /var/www/html/wp-cli.yml
+
 COPY assets /assets
 
 # Add sudo in order to run wp-cli as the www-data user
