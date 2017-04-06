@@ -22,7 +22,7 @@ ENV WORDPRESS_DB_USER="" \
   WORDPRESS_PATH="/var/www/html" \
   WP="/bin/wp"
 
-COPY wp-su.sh /bin/wp
+COPY assets/wp-su.sh /bin/wp
 
 COPY assets /assets
 
