@@ -43,12 +43,6 @@ content='Frequently Asked Questions Page'
 postid=$($WP post create --post_content="$content" --post_type=page --post_title="$title" --porcelain)
 $WP post update $postid --post_status=publish --post_parent=$worker_overview_id
 
-#### worker - Contact Us
-title='Contact Us'
-content='Placeholder for Worker Contact Us page'
-postid=$($WP post create --post_content="$content" --post_type=page --post_title="$title" --porcelain)
-$WP post update $postid --post_status=publish --post_parent=$worker_overview_id
-
 
 #### Contact Us
 title='Contact Us'
