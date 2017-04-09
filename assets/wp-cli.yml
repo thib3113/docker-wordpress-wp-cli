@@ -6,7 +6,7 @@ color: false
 
 # Subcommand defaults (e.g. `wp core config`)
 core config:
-    dbhost: mysql
+    dbhost: mysqldb
     dbuser: wordpress
     dbpass: lkjasdfSDFasdflwe932js0
     extra-php: |
