@@ -1,7 +1,7 @@
 #!/bin/bash
 MWD='/assets/docker-entrypoint-wpcli.d'
 
-#$MWD/00_base.sh
+$MWD/00_base.sh
 #$MWD/05_plugins.sh
 #$MWD/10_theme.sh
 #$MWD/15_media.sh
@@ -10,6 +10,7 @@ MWD='/assets/docker-entrypoint-wpcli.d'
 #$MWD/50_widgets.sh
 #$MWD/80_users.sh
 
-SLEEPTIME=3600
-echo "Sleeping $SLEEPTIME seconds to allow for manual debug";
-sleep $SLEEPTIME;
+# enable for debugging
+# SLEEPTIME=3600
+# echo "Sleeping $SLEEPTIME seconds to allow for manual debug";
+# sleep $SLEEPTIME;
