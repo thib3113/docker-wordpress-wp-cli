@@ -1,6 +1,6 @@
 # Global parameter defaults
 path: /var/www/html
-url: http://demo.thalhalla.com:7777
+url: http://demo.ohmydocker.com
 user: demoadmin
 color: false
 
