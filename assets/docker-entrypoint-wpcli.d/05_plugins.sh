@@ -4,6 +4,8 @@ echo 'Configuring Plugins'
 # remove defaults
 $WP plugin uninstall hello akismet
 
+# force SSL
+$WP plugin install wp-force-ssl
 # install/activate project plugins
 #$WP plugin install all-in-one-wp-security-and-firewall --activate
 #$WP plugin install bwp-google-xml-sitemaps --activate

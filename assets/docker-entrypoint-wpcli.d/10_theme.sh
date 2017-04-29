@@ -29,13 +29,13 @@ $WP theme mod set pwt_general_color '#'$RGB_DRKRED
 $WP theme mod set pwt_ceneral_color '#'$RGB_DRKRED
 $WP theme mod set pwt_second_color '#'$RGB_DRKGREEN
 $WP theme mod set pwt_logo_upload $LOGOURL
-$WP theme mod set pwt_text_logo_1 "FISIF"
+$WP theme mod set pwt_text_logo_1 "DEFAULT"
 $WP theme mod set pwt_text_logo_2 "THEME"
 $WP theme mod set pwt_blog_page "Latest News Updates"
 $WP theme mod set pwt_center_box_title "Center Box Title"
 $WP theme mod set pwt_center_box_subtitle "Center Box SubTitle"
 $WP theme mod set pwt_center_box_button_text "Center Box Button Text"
-$WP theme mod set pwt_center_box_button_link "http://www.fisif.com"
+$WP theme mod set pwt_center_box_button_link "https://demo.ohmydocker.com"
 
 
 # display the result
