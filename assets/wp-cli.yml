@@ -1,6 +1,6 @@
 # Global parameter defaults
 path: /var/www/html
-url: http://demo.ohmydocker.com
+url: https://demo.ohmydocker.com
 user: demoadmin
 color: false
 
