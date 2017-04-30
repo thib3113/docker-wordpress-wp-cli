@@ -4,8 +4,8 @@ LOGOURL=''
 
 # Download Theme
 cd $WORDPRESS_PATH/wp-content/themes
-wget https://github.com/jamessmoore/wp-theme-aa/archive/master.zip | unzip -
-rm master.zip
+wget https://github.com/jamessmoore/wp-theme-aa/archive/master.zip
+unzip master.zip && rm master.zip
 
 RGB_DRKBRWN='988777'
 RGB_LTBRWN='E2DCD0'
