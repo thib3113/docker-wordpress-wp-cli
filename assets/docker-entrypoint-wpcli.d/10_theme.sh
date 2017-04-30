@@ -1,6 +1,11 @@
 #!/bin/bash
-THEME='twentyseventeen'
+THEME='wp-theme-aa-master'
 LOGOURL=''
+
+# Download Theme
+cd $WORDPRESS_PATH/wp-content/themes
+wget https://github.com/jamessmoore/wp-theme-aa/archive/master.zip | unzip -
+rm master.zip
 
 RGB_DRKBRWN='988777'
 RGB_LTBRWN='E2DCD0'
@@ -13,9 +18,9 @@ RGB_TAN='E1D8B9'
 RGB_LTTAN='DFDBBB'
 
 if $($WP theme is-installed $THEME); then
-    echo 'Configuring Theme:' $THEME
+    echo 'Activating Theme:' $THEME
 else
-    echo 'Unable to configure theme (not installed)'
+    echo 'Unable to Activate theme (not installed)'
     exit 0
 fi
 
