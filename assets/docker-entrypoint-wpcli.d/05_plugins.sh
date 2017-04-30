@@ -7,7 +7,7 @@ $WP plugin uninstall hello akismet
 # force SSL
 cd $WORDPRESS_PATH/wp-content/plugins
 wget -v https://gist.githubusercontent.com/jamessmoore/6d9e58d83bb52909e64e040f3077b695/raw/9a701fec3fc9090917ac53c26cf1ad60d4747ec1/force-ssl-url-scheme.php
-$WP plugin install wp-force-ssl --activate
+$WP plugin install force-ssl-url-scheme --activate
 
 # install/activate project plugins
 #$WP plugin install all-in-one-wp-security-and-firewall --activate
