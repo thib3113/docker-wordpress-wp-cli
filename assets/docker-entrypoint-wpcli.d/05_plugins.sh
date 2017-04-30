@@ -10,8 +10,8 @@ wget -v https://gist.githubusercontent.com/jamessmoore/6d9e58d83bb52909e64e040f3
 $WP plugin activate force-ssl-url-scheme
 
 # install/activate project plugins
-#$WP plugin install all-in-one-wp-security-and-firewall --activate
-#$WP plugin install bwp-google-xml-sitemaps --activate
+$WP plugin install all-in-one-wp-security-and-firewall --activate
+$WP plugin install bwp-google-xml-sitemaps --activate
 #$WP plugin install contact-form-7 --activate
 #$WP plugin install postman-smtp --activate
 #$WP plugin install listo --activate
@@ -19,10 +19,10 @@ $WP plugin activate force-ssl-url-scheme
 # $WP plugin install disable-password-reset --activate
 # $WP plugin install peters-login-redirect --activate
 #
-# $WP plugin install ml-slider --activate
-# $WP plugin install megamenu --activate
+$WP plugin install ml-slider --activate
+$WP plugin install megamenu --activate
 #
-# $WP plugin install wp-google-fonts --activate
+$WP plugin install wp-google-fonts --activate
 #
 # $WP plugin install googleanalytics --activate
 # $WP plugin install google-analytics-dashboard-for-wp --activate
