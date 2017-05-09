@@ -4,6 +4,9 @@ echo 'Configuring Plugins'
 # remove defaults
 $WP plugin uninstall hello akismet
 
+# install wp importer
+$WP plugin install wordpress-importer --activate
+
 # force SSL
 cd $WORDPRESS_PATH/wp-content/plugins
 wget -v https://gist.githubusercontent.com/jamessmoore/6d9e58d83bb52909e64e040f3077b695/raw/9a701fec3fc9090917ac53c26cf1ad60d4747ec1/force-ssl-url-scheme.php
