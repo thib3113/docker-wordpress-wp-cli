@@ -4,7 +4,7 @@ BASEURL=$WORDPRESS_SITE_URL
 # setup menus - http://wp-cli.org/commands/menu/
 
 #################### main-menu #######################################################################################
-$WP menu create main-menu
+# $WP menu create main-menu
 $WP menu location assign main-menu main-menu
 
 $WP menu item add-custom main-menu "Home" "$BASEURL"
@@ -40,7 +40,7 @@ $WP menu item add-custom main-menu "Resources" "$BASEURL/member/member-home/reso
 
 agent_id=$($WP menu item add-custom main-menu "Agent" "$BASEURL/agent" --porcelain)
 $WP menu item add-custom main-menu "Become-An-Agent" "$BASEURL/agent/become-a-fisif-agent" --parent-id=$agent_id
-agent_home_id=$($WP menu item add-custom main-menu "Agent Home" "$BASEURL/agent/agent-home" --parent-id=$agent_id --porcelain)
+agent_home_id=$($WP menu item add-custom main-menu "Agent-Home" "$BASEURL/agent/agent-home" --parent-id=$agent_id --porcelain)
 $WP menu item add-custom main-menu "Submit-Quote-Application" "$BASEURL/agent/submit-quote-application" --parent-id=$agent_id
 $WP menu item add-custom main-menu "Application-Forms" "$BASEURL/agent/application-forms" --parent-id=$agent_id
 $WP menu item add-custom main-menu "Rates" "$BASEURL/agent/agents-home/rates" --parent-id=$agent_home_id
@@ -50,11 +50,11 @@ $WP menu item add-custom main-menu "Agent-Commision-Report" "$BASEURL/agent/agen
 $WP menu item add-custom main-menu "Contact-Us" "$BASEURL/contact"
 
 #################### front-page-menu #######################################################################################
-$WP menu create front-page-menu
+# $WP menu create front-page-menu
 $WP menu location assign front-page-menu front-page-menu
 
 #################### pubsub-member-menu #######################################################################################
-$WP menu create pubsub-member-menu
+#$WP menu create pubsub-member-menu
 $WP menu location assign pubsub-member-menu pubsub-member-menu
 
 
