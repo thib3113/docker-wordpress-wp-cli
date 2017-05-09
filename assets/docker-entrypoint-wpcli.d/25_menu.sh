@@ -4,7 +4,7 @@ BASEURL=$WORDPRESS_SITE_URL
 # setup menus - http://wp-cli.org/commands/menu/
 
 #################### main-menu #######################################################################################
-# $WP menu create main-menu
+$WP menu create main-menu
 $WP menu location assign main-menu main-menu
 
 $WP menu item add-custom main-menu "Home" "$BASEURL"
@@ -50,11 +50,11 @@ $WP menu item add-custom main-menu "Agent-Commision-Report" "$BASEURL/agent/agen
 $WP menu item add-custom main-menu "Contact-Us" "$BASEURL/contact"
 
 #################### front-page-menu #######################################################################################
-# $WP menu create front-page-menu
+$WP menu create front-page-menu
 $WP menu location assign front-page-menu front-page-menu
 
 #################### pubsub-member-menu #######################################################################################
-#$WP menu create pubsub-member-menu
+$WP menu create pubsub-member-menu
 $WP menu location assign pubsub-member-menu pubsub-member-menu
 
 

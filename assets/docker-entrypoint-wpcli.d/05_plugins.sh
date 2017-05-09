@@ -30,7 +30,7 @@ $WP plugin install megamenu --activate
 #
 # # Contexture Page Security
 #
-$WP plugin install contexture-page-security --activate
-$WP option update ad_opt_login_anon true
+# $WP plugin install contexture-page-security --activate
+# $WP option update ad_opt_login_anon true
 
 $WP plugin status
