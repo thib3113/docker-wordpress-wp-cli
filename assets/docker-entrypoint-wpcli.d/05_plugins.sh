@@ -22,7 +22,8 @@ $WP plugin install bwp-google-xml-sitemaps --activate
 $WP plugin install ml-slider --activate
 $WP plugin install megamenu --activate
 #
-$WP plugin install wp-google-fonts --activate
+# wp-google-fonts causes errors with the theme
+# $WP plugin install wp-google-fonts --activate
 #
 # $WP plugin install googleanalytics --activate
 # $WP plugin install google-analytics-dashboard-for-wp --activate
