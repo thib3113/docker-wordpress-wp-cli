@@ -12,4 +12,5 @@ $WP core config --path=$WORDPRESS_PATH --dbhost="$WORDPRESS_DB_HOST" --dbname="$
 export WORDPRESS_TITLE=`sed 's/ /-/g' <<< "$WORDPRESS_TITLE"`
 
 # perform a new install
-$WP core install --allow-root --debug --path=$WORDPRESS_PATH --url="$WORDPRESS_SITE_URL" --title="$WORDPRESS_TITLE" --admin_user="$WORDPRESS_ADMIN_USER" --admin_password="$WORDPRESS_ADMIN_PASSWORD" --admin_email="$WORDPRESS_ADMIN_EMAIL"
+$WP core install --allow-root --debug --path=$WORDPRESS_PATH --url="$WORDPRESS_SITE_URL" --title="$WORDPRESS_TITLE" \
+  --admin_user="$WORDPRESS_ADMIN_USER" --admin_password="$WORDPRESS_ADMIN_PASSWORD" --admin_email="$WORDPRESS_ADMIN_EMAIL"

@@ -1,6 +1,6 @@
 #!/bin/bash
 THEME='wp-theme-aa-master'
-LOGOURL=''
+LOGOURL="$WORDPRESS_SITE_URL/wp-content/themes/$THEME/assets/images/logo.png"
 
 # Download Theme
 cd $WORDPRESS_PATH/wp-content/themes
@@ -40,7 +40,7 @@ $WP theme mod set pwt_blog_page "Latest News Updates"
 $WP theme mod set pwt_center_box_title "Center Box Title"
 $WP theme mod set pwt_center_box_subtitle "Center Box SubTitle"
 $WP theme mod set pwt_center_box_button_text "Center Box Button Text"
-$WP theme mod set pwt_center_box_button_link "https://demo.ohmydocker.com"
+$WP theme mod set pwt_center_box_button_link "$WORDPRESS_SITE_URL"
 
 
 # display the result
