@@ -19,7 +19,6 @@ $WP plugin install bwp-google-xml-sitemaps --activate
 $WP plugin install contact-form-7 --activate
 $WP plugin install postman-smtp --activate
 $WP plugin install listo --activate
-$WP plugin install peters-login-redirect --activate
 $WP plugin install custom-login --activate
 $WP plugin install disable-password-reset --activate
 $WP plugin install simple-pdf-exporter --activate
@@ -35,7 +34,7 @@ $WP plugin install google-analytics-dashboard-for-wp --activate
 #
 # # Contexture Page Security
 #
-$WP plugin install contexture-page-security --activate
+$WP plugin install contexture-page-security
 $WP option update ad_opt_login_anon true
 $WP plugin install peters-login-redirect --activate
 
