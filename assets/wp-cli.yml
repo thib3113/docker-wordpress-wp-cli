@@ -1,7 +1,7 @@
 # Global parameter defaults
 path: /var/www/html
-url: https://demo.ohmydocker.com
-user: demoadmin
+url: https://aa.webtechhq.com
+user: aa-admin
 color: false
 
 # Subcommand defaults (e.g. `wp core config`)

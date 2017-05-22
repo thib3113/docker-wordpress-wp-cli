@@ -12,7 +12,6 @@ GENERAL_COLOR='3391AD'
 SECOND_COLOR='3391AD'
 THIRD_COLOR='353535'
 
-
 if $($WP theme is-installed $THEME); then
     echo 'Activating Theme:' $THEME
 else
@@ -37,7 +36,6 @@ $WP theme mod set pwt_center_box_title "Center Box Title"
 $WP theme mod set pwt_center_box_subtitle "Center Box SubTitle"
 $WP theme mod set pwt_center_box_button_text "Center Box Button Text"
 $WP theme mod set pwt_center_box_button_link "$WORDPRESS_SITE_URL"
-
 
 # display the result
 $WP theme mod get --all
