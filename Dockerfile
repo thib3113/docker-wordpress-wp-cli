@@ -6,7 +6,7 @@
 FROM wordpress:latest
 
 # OhMyDocker Version
-ENV OMDWP 1.0.2
+ENV OMDWP 1.0.3
 
 ENV WORDPRESS_DB_USER="" \
   WORDPRESS_DB_PASSWORD="" \
