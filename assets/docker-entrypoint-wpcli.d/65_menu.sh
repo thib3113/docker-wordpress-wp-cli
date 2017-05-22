@@ -53,6 +53,14 @@ $WP menu item add-custom main-menu "Contact-Us" "$BASEURL/contact"
 $WP menu create front-page-menu
 $WP menu location assign front-page-menu front-page-menu
 
+$WP menu item add-custom front-page-menu "Member-Login" "$BASEURL/member/member-home/"
+$WP menu item add-custom front-page-menu "Agent-Login" "$BASEURL/agent/agent-home/"
+$WP menu item add-custom front-page-menu "Submit-A-Claim" "$BASEURL/member/submit-e1-form/"
+$WP menu item add-custom front-page-menu "Pay-My-Bill" "$BASEURL/member/pay-my-bill/"
+$WP menu item add-custom front-page-menu "Find-And-Agent" "$BASEURL/agent/find-an-agent/"
+$WP menu item add-custom front-page-menu "Request-A-Quote" "$BASEURL/member/request-a-quotee/"
+$WP menu item add-custom front-page-menu "Agent-Login" "$BASEURL/agent/agent-home/" 
+
 #################### pubsub-member-menu #######################################################################################
 $WP menu create pubsub-member-menu
 $WP menu location assign pubsub-member-menu pubsub-member-menu
@@ -61,5 +69,13 @@ $WP menu location assign pubsub-member-menu pubsub-member-menu
 #################### footer-menu #######################################################################################
 $WP menu create footer-menu
 $WP menu location assign footer-menu footer-menu
+
+$WP menu item add-custom footer-menu "Home" "$BASEURL/"
+$WP menu item add-custom footer-menu "About-Us" "$BASEURL/about-us"
+$WP menu item add-custom footer-menu "News" "$BASEURL/news"
+$WP menu item add-custom footer-menu "Legislative" "$BASEURL/legislative"
+$WP menu item add-custom footer-menu "Members" "$BASEURL/members"
+$WP menu item add-custom footer-menu "Agents" "$BASEURL/agents"
+$WP menu item add-custom footer-menu "Contact-Us" "$BASEURL/contact-us"
 
 $WP menu list --debug
