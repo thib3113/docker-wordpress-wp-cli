@@ -9,7 +9,7 @@ $WP menu location assign main-menu main-menu
 
 $WP menu item add-custom main-menu "Home" "$BASEURL"
 
-about_fisif_id=$($WP menu item add-custom main-menu "About-Us" "$BASEURL/about-us" --porcelain)
+about_fisif_id=$($WP menu item add-custom main-menu "About-AA" "$BASEURL/about-aa" --porcelain)
 $WP menu item add-custom main-menu "History" "$BASEURL/about-fisif/history" --parent-id=$about_fisif_id
 $WP menu item add-custom main-menu "How-The-Fund-Works" "$BASEURL/about-fisif/how-the-fund-works" --parent-id=$about_fisif_id
 $WP menu item add-custom main-menu "Board-of-Trustees" "$BASEURL/about-fisif/board-of-trustees" --parent-id=$about_fisif_id
@@ -20,9 +20,9 @@ news_id=$($WP menu item add-custom main-menu "News" "$BASEURL/news" --porcelain)
 $WP menu item add-custom main-menu "Calendar-of-Events" "$BASEURL/category/events" --parent-id=$news_id
 $WP menu item add-custom main-menu "Announcements" "$BASEURL/category/announcements" --parent-id=$news_id
 $WP menu item add-custom main-menu "Newsletters" "$BASEURL/category/newsletter" --parent-id=$news_id
-$WP menu item add-custom main-menu "WCA-News" "$BASEURL/category/wca" --parent-id=$news_id
-$WP menu item add-custom main-menu "NMRA" "$BASEURL/category/nmra" --parent-id=$news_id
-$WP menu item add-custom main-menu "NMGA" "$BASEURL/category/nmga" --parent-id=$news_id
+# $WP menu item add-custom main-menu "WCA-News" "$BASEURL/category/wca" --parent-id=$news_id
+# $WP menu item add-custom main-menu "NMRA" "$BASEURL/category/nmra" --parent-id=$news_id
+# $WP menu item add-custom main-menu "NMGA" "$BASEURL/category/nmga" --parent-id=$news_id
 
 $WP menu item add-custom main-menu "Legislative" "$BASEURL/legislative"
 
@@ -39,7 +39,7 @@ $WP menu item add-custom main-menu "Loss-Ratio-Report" "$BASEURL/member/member-h
 $WP menu item add-custom main-menu "Resources" "$BASEURL/member/member-home/resources" --parent-id=$members_home_id
 
 agent_id=$($WP menu item add-custom main-menu "Agent" "$BASEURL/agent" --porcelain)
-$WP menu item add-custom main-menu "Become-An-Agent" "$BASEURL/agent/become-a-fisif-agent" --parent-id=$agent_id
+$WP menu item add-custom main-menu "Become-An-Agent" "$BASEURL/agent/become-an-agent" --parent-id=$agent_id
 agent_home_id=$($WP menu item add-custom main-menu "Agent-Home" "$BASEURL/agent/agent-home" --parent-id=$agent_id --porcelain)
 $WP menu item add-custom main-menu "Submit-Quote-Application" "$BASEURL/agent/submit-quote-application" --parent-id=$agent_id
 $WP menu item add-custom main-menu "Application-Forms" "$BASEURL/agent/application-forms" --parent-id=$agent_id
@@ -71,7 +71,7 @@ $WP menu create footer-menu
 $WP menu location assign footer-menu footer-menu
 
 $WP menu item add-custom footer-menu "Home" "$BASEURL/"
-$WP menu item add-custom footer-menu "About-Us" "$BASEURL/about-us"
+$WP menu item add-custom footer-menu "About-AA" "$BASEURL/about-aa"
 $WP menu item add-custom footer-menu "News" "$BASEURL/news"
 $WP menu item add-custom footer-menu "Legislative" "$BASEURL/legislative"
 $WP menu item add-custom footer-menu "Members" "$BASEURL/members"

@@ -36,6 +36,6 @@ $WP plugin install google-analytics-dashboard-for-wp --activate
 #
 $WP plugin install contexture-page-security
 $WP option update ad_opt_login_anon true
-$WP plugin install peters-login-redirect --activate
+$WP plugin install peters-login-redirect
 
 $WP plugin status

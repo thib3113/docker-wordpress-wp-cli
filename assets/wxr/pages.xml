@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.4" created="2017-05-09 19:45" -->
+<!-- generator="WordPress/4.7.5" created="2017-05-25 02:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,26 +26,25 @@
 >
 
 <channel>
-	<title>Adjusting Alternatives, LLC.</title>
-	<link>https://demo.ohmydocker.com</link>
-	<description>Adjusting Alternatives, LLC.</description>
-	<pubDate>Tue, 09 May 2017 19:45:36 +0000</pubDate>
+	<title>Adjusting Alternatives</title>
+	<link>https://aa.webtechhq.com</link>
+	<description>Workers Compensation Insurance in New Mexico</description>
+	<pubDate>Thu, 25 May 2017 02:36:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.ohmydocker.com</wp:base_site_url>
-	<wp:base_blog_url>https://demo.ohmydocker.com</wp:base_blog_url>
+	<wp:base_site_url>https://aa.webtechhq.com</wp:base_site_url>
+	<wp:base_blog_url>https://aa.webtechhq.com</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[fisifadmin]]></wp:author_login><wp:author_email><![CDATA[james@ohmydocker.com]]></wp:author_email><wp:author_display_name><![CDATA[fisifadmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>658</wp:author_id><wp:author_login><![CDATA[tana]]></wp:author_login><wp:author_email><![CDATA[tana@fisif.com]]></wp:author_email><wp:author_display_name><![CDATA[Member Services]]></wp:author_display_name><wp:author_first_name><![CDATA[Tana]]></wp:author_first_name><wp:author_last_name><![CDATA[Lucero]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[aa-admin]]></wp:author_login><wp:author_email><![CDATA[james@ohmydocker.com]]></wp:author_email><wp:author_display_name><![CDATA[aa-admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 
-	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
 
 	<item>
 		<title>Adjusting Alternatives, LLC.</title>
-		<link>https://demo.ohmydocker.com/</link>
+		<link>https://aa.webtechhq.com/</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:03 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=146</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2><strong>Message from the Administrator</strong></h2>
@@ -73,10 +72,6 @@ Kathy Diaz
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -107,10 +102,10 @@ Kathy Diaz
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>About FISIF</title>
-		<link>https://demo.ohmydocker.com/about-fisif/</link>
+		<title>About AA</title>
+		<link>https://aa.webtechhq.com/about-aa</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:07 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=148</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4>Who We Are</h4>
@@ -127,17 +122,13 @@ And ... we enjoy our work. Just give us a call or stop by our office and you'll 
 		<wp:post_date_gmt><![CDATA[2016-03-20 21:47:07]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-fisif]]></wp:post_name>
+		<wp:post_name><![CDATA[about-aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -166,12 +157,16 @@ And ... we enjoy our work. Just give us a call or stop by our office and you'll 
 			<wp:meta_key><![CDATA[_wppcp_post_attachments]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>History</title>
-		<link>https://demo.ohmydocker.com/about-fisif/history/</link>
+		<link>https://aa.webtechhq.com/about-aa/history</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:09 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=150</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4><strong>History of the Fund</strong></h4>
@@ -222,19 +217,15 @@ Known for its service, stability and no-nonsense approach to claims handling, in
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>How the Fund Works</title>
-		<link>https://demo.ohmydocker.com/about-fisif/how-the-fund-was-started/</link>
+		<link>https://aa.webtechhq.com/about-aa/how-the-fund-was-started</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:12 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=152</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4><strong>How the Fund works</strong></h4>
@@ -268,10 +259,6 @@ To be eligible for participation in the Food Industry Self Insurance Fund, prosp
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -302,9 +289,9 @@ To be eligible for participation in the Food Industry Self Insurance Fund, prosp
 	</item>
 	<item>
 		<title>Board of Trustees</title>
-		<link>https://demo.ohmydocker.com/about-fisif/board-of-trustees/</link>
+		<link>https://aa.webtechhq.com/about-aa/board-of-trustees</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:14 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=154</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
@@ -440,19 +427,15 @@ Ed Linderman, Las Cruces, NM
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Staff</title>
-		<link>https://demo.ohmydocker.com/about-fisif/staff/</link>
+		<link>https://aa.webtechhq.com/about-aa/staff</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:17 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=156</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Kathy Diaz, PhD., Administrator </strong>
@@ -522,19 +505,15 @@ If you need to speak to your claims adjuster, please call our office at (505) 29
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Financial</title>
-		<link>https://demo.ohmydocker.com/about-fisif/financial/</link>
+		<link>https://aa.webtechhq.com/about-aa/financial</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:19 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=158</guid>
 		<description></description>
 		<content:encoded><![CDATA[Placeholder for the Financial Page]]></content:encoded>
@@ -554,9 +533,9 @@ If you need to speak to your claims adjuster, please call our office at (505) 29
 	</item>
 	<item>
 		<title>Testimonials</title>
-		<link>https://demo.ohmydocker.com/about-fisif/testimonials/</link>
+		<link>https://aa.webtechhq.com/about-aa/testimonials</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:21 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=160</guid>
 		<description></description>
 		<content:encoded><![CDATA[“Our members benefit in many ways from being in the Food Industry Self Insurance Fund. FISIF helps members keep workers’ compensation costs controlled. From safety inspections to keeping an eye on trends in your restaurant, FISIF is the only fund run by restaurants for restaurants. FISIF is also our fund, returning dividends back to our members from fund savings is at the core of the business model. Next time you are up for renewal get a quote from your workers’ compensation fund.”
@@ -577,10 +556,6 @@ New Mexico Restaurant Association]]></content:encoded>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -612,9 +587,9 @@ New Mexico Restaurant Association]]></content:encoded>
 	</item>
 	<item>
 		<title>News</title>
-		<link>https://demo.ohmydocker.com/news/</link>
+		<link>https://aa.webtechhq.com/news</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:23 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=162</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4><strong>Find out what's happening.</strong></h4>
@@ -659,19 +634,15 @@ FISIF wants to keep you informed of information and changes happening both in w
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Legislative</title>
-		<link>https://demo.ohmydocker.com/legislative/</link>
+		<link>https://aa.webtechhq.com/legislative</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:26 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=164</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4>FISIF Legislative Update</h4>
@@ -707,10 +678,6 @@ If you are a FISIF member and would like to get involved in workers’ compensat
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -741,9 +708,9 @@ If you are a FISIF member and would like to get involved in workers’ compensat
 	</item>
 	<item>
 		<title>FISIF Members</title>
-		<link>https://demo.ohmydocker.com/member/</link>
+		<link>https://aa.webtechhq.com/member</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:28 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=166</guid>
 		<description></description>
 		<content:encoded><![CDATA[FISIF Members can file a claim on-line, check payment history, print necessary forms and find safety resources.   Please log in to access your account.   If you do not have a username and password, please contact our office by email at<strong> <a href="mailto:memberservices@fisif.com">memberservices@fisif.com</a> </strong>or by phone at (505) 298-9095.  If contacting us by email, please provide your Member number and Federal Employer Identification Number (FEIN).  If contacting us by phone, please have that information readily available.]]></content:encoded>
@@ -760,10 +727,6 @@ If you are a FISIF member and would like to get involved in workers’ compensat
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wppcp_post_page_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[none]]></wp:meta_value>
@@ -795,9 +758,9 @@ If you are a FISIF member and would like to get involved in workers’ compensat
 	</item>
 	<item>
 		<title>Pay My Bill</title>
-		<link>https://demo.ohmydocker.com/member/member-home/pay-my-bill/</link>
+		<link>https://aa.webtechhq.com/member/member-home/pay-my-bill</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:30 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=168</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3>Online Payments - Coming Soon!</h3>
@@ -820,10 +783,6 @@ Please <a href="http://fisif-demo.ohmydocker.com:7771/contact/">contact us</a> t
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wppcp_post_page_visibility]]></wp:meta_key>
@@ -852,9 +811,9 @@ Please <a href="http://fisif-demo.ohmydocker.com:7771/contact/">contact us</a> t
 	</item>
 	<item>
 		<title>Find an HCP</title>
-		<link>https://demo.ohmydocker.com/member/find-an-hcp/</link>
+		<link>https://aa.webtechhq.com/member/find-an-hcp</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:32 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=170</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Employees injured at work and needing emergency medical attention should go to the nearest emergency center.</strong>
@@ -902,19 +861,15 @@ If you have any questions about providers or if you need posters for your facili
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Find an Agent</title>
-		<link>https://demo.ohmydocker.com/member/find-an-agent/</link>
+		<link>https://aa.webtechhq.com/member/find-an-agent</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:35 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=172</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:agent_search]]]></content:encoded>
@@ -932,19 +887,15 @@ If you have any questions about providers or if you need posters for your facili
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Member Home</title>
-		<link>https://demo.ohmydocker.com/member/member-home/</link>
+		<link>https://aa.webtechhq.com/member/member-home</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:37 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=174</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:member_account_summary]
@@ -989,10 +940,6 @@ If you have any questions about providers or if you need posters for your facili
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
 		</wp:postmeta>
@@ -1027,9 +974,9 @@ If you have any questions about providers or if you need posters for your facili
 	</item>
 	<item>
 		<title>Account Receivable Report</title>
-		<link>https://demo.ohmydocker.com/member/member-home/account-receivable-report/</link>
+		<link>https://aa.webtechhq.com/member/member-home/account-receivable-report</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:39 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=176</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:member_account_receivable_report]
@@ -1048,10 +995,6 @@ If you have any questions about providers or if you need posters for your facili
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
@@ -1087,9 +1030,9 @@ If you have any questions about providers or if you need posters for your facili
 	</item>
 	<item>
 		<title>Premium Computation</title>
-		<link>https://demo.ohmydocker.com/member/member-home/premium-computation/</link>
+		<link>https://aa.webtechhq.com/member/member-home/premium-computation</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:41 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=178</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:member_premium_computation]
@@ -1108,10 +1051,6 @@ If you have any questions about providers or if you need posters for your facili
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
@@ -1147,9 +1086,9 @@ If you have any questions about providers or if you need posters for your facili
 	</item>
 	<item>
 		<title>Loss Run Report</title>
-		<link>https://demo.ohmydocker.com/member/member-home/loss-run-report/</link>
+		<link>https://aa.webtechhq.com/member/member-home/loss-run-report</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:44 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=180</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:print_options]
@@ -1170,10 +1109,6 @@ If you have any questions about providers or if you need posters for your facili
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
@@ -1209,9 +1144,9 @@ If you have any questions about providers or if you need posters for your facili
 	</item>
 	<item>
 		<title>FISIF Agents</title>
-		<link>https://demo.ohmydocker.com/agent/</link>
+		<link>https://aa.webtechhq.com/agent</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:46 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=182</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4>FISIF helps you service your clients better than anyone else!</h4>
@@ -1265,19 +1200,15 @@ FISIF works with agents all over New Mexico and we pride ourselves on the relati
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Safety Resources</title>
-		<link>https://demo.ohmydocker.com/?page_id=572</link>
+		<link>https://aa.webtechhq.com/?page_id=572</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[tana]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=572</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1294,16 +1225,12 @@ FISIF works with agents all over New Mexico and we pride ourselves on the relati
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>Become a FISIF Agent</title>
-		<link>https://demo.ohmydocker.com/agent/become-a-fisif-agent/</link>
+		<link>https://aa.webtechhq.com/agent/become-a-fisif-agent</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:49 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=184</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4>Thank you for your interest in the Food Industry Self Insurance Fund!!</h4>
@@ -1350,19 +1277,15 @@ Contact us by phone at (505) 298-9095.]]></content:encoded>
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Agent Home</title>
-		<link>https://demo.ohmydocker.com/agent/agent-home/</link>
+		<link>https://aa.webtechhq.com/agent/agent-home</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:51 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=186</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:agent_account_summary]]]></content:encoded>
@@ -1379,10 +1302,6 @@ Contact us by phone at (505) 298-9095.]]></content:encoded>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
@@ -1418,9 +1337,9 @@ Contact us by phone at (505) 298-9095.]]></content:encoded>
 	</item>
 	<item>
 		<title>Rates</title>
-		<link>https://demo.ohmydocker.com/agent/agent-home/rates/</link>
+		<link>https://aa.webtechhq.com/agent/agent-home/rates</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:53 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=188</guid>
 		<description></description>
 		<content:encoded><![CDATA[<a href="https://demo.ohmydocker.com/wp-content/uploads/2016/12/FISIF-Members_Rates-Effective-January-1-2017.pdf">FISIF Rates Effective January 1, 2017</a>]]></content:encoded>
@@ -1465,16 +1384,12 @@ Contact us by phone at (505) 298-9095.]]></content:encoded>
 			<wp:meta_key><![CDATA[_wppcp_post_attachments]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>Agent Commission Report</title>
-		<link>https://demo.ohmydocker.com/agent/agent-home/commission-report/</link>
+		<link>https://aa.webtechhq.com/agent/agent-home/commission-report</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:55 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=190</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:agent_commission_report]
@@ -1496,10 +1411,6 @@ Contact us by phone at (505) 298-9095.]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wppcp_post_page_visibility]]></wp:meta_key>
@@ -1528,9 +1439,9 @@ Contact us by phone at (505) 298-9095.]]></content:encoded>
 	</item>
 	<item>
 		<title>Contact Underwriting Staff / Submit Quote Application</title>
-		<link>https://demo.ohmydocker.com/agent/contact-underwriting-staff-submit-application/</link>
+		<link>https://aa.webtechhq.com/agent/contact-underwriting-staff-submit-application</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:58 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3>Upload Your Completed Application</h3>
@@ -1552,10 +1463,6 @@ Our Member Services Team will contact you shortly.
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -1591,9 +1498,9 @@ Our Member Services Team will contact you shortly.
 	</item>
 	<item>
 		<title>Worker</title>
-		<link>https://demo.ohmydocker.com/worker/</link>
+		<link>https://aa.webtechhq.com/worker</link>
 		<pubDate>Sun, 20 Mar 2016 21:48:00 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=194</guid>
 		<description></description>
 		<content:encoded><![CDATA[Placeholder for Worker Page]]></content:encoded>
@@ -1613,9 +1520,9 @@ Our Member Services Team will contact you shortly.
 	</item>
 	<item>
 		<title>Frequently Asked Questions</title>
-		<link>https://demo.ohmydocker.com/worker/frequently-asked-questions/</link>
+		<link>https://aa.webtechhq.com/worker/frequently-asked-questions</link>
 		<pubDate>Sun, 20 Mar 2016 21:48:02 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=196</guid>
 		<description></description>
 		<content:encoded><![CDATA[Placeholder for Worker Frequently Asked Questions Page]]></content:encoded>
@@ -1635,9 +1542,9 @@ Our Member Services Team will contact you shortly.
 	</item>
 	<item>
 		<title>Contact Us</title>
-		<link>https://demo.ohmydocker.com/worker/contact-us/</link>
+		<link>https://aa.webtechhq.com/worker/contact-us</link>
 		<pubDate>Sun, 20 Mar 2016 21:48:04 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=198</guid>
 		<description></description>
 		<content:encoded><![CDATA[Placeholder for Worker Contact Us page]]></content:encoded>
@@ -1657,9 +1564,9 @@ Our Member Services Team will contact you shortly.
 	</item>
 	<item>
 		<title>Contact Us</title>
-		<link>https://demo.ohmydocker.com/contact/</link>
+		<link>https://aa.webtechhq.com/contact</link>
 		<pubDate>Sun, 20 Mar 2016 21:48:07 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=200</guid>
 		<description></description>
 		<content:encoded><![CDATA[Main Phone: 505-298-9095
@@ -1685,10 +1592,6 @@ Fields marked with * are required.
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -1720,9 +1623,9 @@ Fields marked with * are required.
 	</item>
 	<item>
 		<title>_Meta_Slider</title>
-		<link>https://demo.ohmydocker.com/_meta_slider/</link>
+		<link>https://aa.webtechhq.com/_meta_slider</link>
 		<pubDate>Mon, 21 Mar 2016 00:50:58 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=254</guid>
 		<description></description>
 		<content:encoded><![CDATA[[metaslider id=253]]]></content:encoded>
@@ -1739,16 +1642,12 @@ Fields marked with * are required.
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>EMPLOYERS&#039; FIRST REPORT OF INJURY OR ILLNESS (E1) FORM</title>
-		<link>https://demo.ohmydocker.com/member/member-home/submit-e1-form/</link>
+		<link>https://aa.webtechhq.com/member/member-home/submit-e1-form</link>
 		<pubDate>Mon, 21 Mar 2016 01:18:47 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=260</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3>Step 1: Download the E-1 Form</h3>
@@ -1779,10 +1678,6 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
@@ -1826,9 +1721,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Agent Premium Estimator</title>
-		<link>https://demo.ohmydocker.com/agent/agent-home/agent-premium-estimator/</link>
+		<link>https://aa.webtechhq.com/agent/agent-home/agent-premium-estimator</link>
 		<pubDate>Wed, 13 Apr 2016 17:14:50 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=331</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:agent_premium_estimator]]]></content:encoded>
@@ -1846,19 +1741,15 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_account-home.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Dashboard</title>
-		<link>https://demo.ohmydocker.com/dashboard/</link>
+		<link>https://aa.webtechhq.com/dashboard</link>
 		<pubDate>Thu, 05 May 2016 16:22:06 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/dashboard/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[wpuf_dashboard]]]></content:encoded>
@@ -1878,9 +1769,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Edit</title>
-		<link>https://demo.ohmydocker.com/edit/</link>
+		<link>https://aa.webtechhq.com/edit</link>
 		<pubDate>Thu, 05 May 2016 16:22:07 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/edit/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[wpuf_edit]]]></content:encoded>
@@ -1900,9 +1791,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Login</title>
-		<link>https://demo.ohmydocker.com/login/</link>
+		<link>https://aa.webtechhq.com/login</link>
 		<pubDate>Thu, 05 May 2016 16:22:08 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/login/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[wpuf-login]]]></content:encoded>
@@ -1922,9 +1813,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Subscription</title>
-		<link>https://demo.ohmydocker.com/subscription/</link>
+		<link>https://aa.webtechhq.com/subscription</link>
 		<pubDate>Thu, 05 May 2016 16:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/subscription/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[wpuf_sub_pack]]]></content:encoded>
@@ -1944,9 +1835,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Payment</title>
-		<link>https://demo.ohmydocker.com/payment/</link>
+		<link>https://aa.webtechhq.com/payment</link>
 		<pubDate>Thu, 05 May 2016 16:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/payment/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Please select a gateway for payment]]></content:encoded>
@@ -1966,9 +1857,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Thank You</title>
-		<link>https://demo.ohmydocker.com/thank-you/</link>
+		<link>https://aa.webtechhq.com/thank-you</link>
 		<pubDate>Thu, 05 May 2016 16:22:10 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/thank-you/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Payment is complete</h1><p>Congratulations, your payment has been completed!</p>]]></content:encoded>
@@ -1988,9 +1879,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Order Received</title>
-		<link>https://demo.ohmydocker.com/order-received/</link>
+		<link>https://aa.webtechhq.com/order-received</link>
 		<pubDate>Thu, 05 May 2016 16:22:11 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/order-received/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Hi, we have received your order. We will validate the order and will take necessary steps to move forward.]]></content:encoded>
@@ -2010,9 +1901,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Resources</title>
-		<link>https://demo.ohmydocker.com/member/member-home/resources/</link>
+		<link>https://aa.webtechhq.com/member/member-home/resources</link>
 		<pubDate>Fri, 27 May 2016 18:30:20 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=462</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p dir="ltr"><a href="/category/newsletter">FISIF Newsletters</a></p>
@@ -2137,10 +2028,6 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_members-home.php]]></wp:meta_value>
 		</wp:postmeta>
@@ -2171,9 +2058,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Application Forms</title>
-		<link>https://demo.ohmydocker.com/agent/application-forms/</link>
+		<link>https://aa.webtechhq.com/agent/application-forms</link>
 		<pubDate>Wed, 15 Jun 2016 21:37:43 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=483</guid>
 		<description></description>
 		<content:encoded><![CDATA[<a href="https://demo.ohmydocker.com/wp-content/uploads/2017/01/Member-Application-Packet.pdf">FISIF Member Application Packet</a>
@@ -2196,10 +2083,6 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -2231,9 +2114,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Certificate Of Insurance</title>
-		<link>https://demo.ohmydocker.com/member/member-home/certificate-of-insurance/</link>
+		<link>https://aa.webtechhq.com/member/member-home/certificate-of-insurance</link>
 		<pubDate>Wed, 22 Jun 2016 21:55:45 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=491</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:member_certificate_of_insurance]]]></content:encoded>
@@ -2250,10 +2133,6 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_headerless.php]]></wp:meta_value>
@@ -2289,9 +2168,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Payroll Reporting Form</title>
-		<link>https://demo.ohmydocker.com/member/member-home/payroll-reporting-form/</link>
+		<link>https://aa.webtechhq.com/member/member-home/payroll-reporting-form</link>
 		<pubDate>Wed, 06 Jul 2016 17:18:20 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=508</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:member_payroll_report]]]></content:encoded>
@@ -2308,10 +2187,6 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_members-home.php]]></wp:meta_value>
@@ -2347,9 +2222,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Calendar of Events</title>
-		<link>https://demo.ohmydocker.com/news/calendar-of-events/</link>
+		<link>https://aa.webtechhq.com/news/calendar-of-events</link>
 		<pubDate>Wed, 03 Aug 2016 22:56:36 +0000</pubDate>
-		<dc:creator><![CDATA[tana]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=595</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2366,10 +2241,6 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -2401,9 +2272,9 @@ Use the web form below to securely submit your prepared E1 form (PDF).  Add ad
 	</item>
 	<item>
 		<title>Request a Quote</title>
-		<link>https://demo.ohmydocker.com/request-a-quote/</link>
+		<link>https://aa.webtechhq.com/request-a-quote</link>
 		<pubDate>Tue, 09 Aug 2016 00:50:47 +0000</pubDate>
-		<dc:creator><![CDATA[tana]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=653</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h4>Would you like FISIF to provide you with a quote for your business?</h4>
@@ -2431,10 +2302,6 @@ If you have any questions about FISIF or the services we offer, please contact o
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
@@ -2466,9 +2333,9 @@ If you have any questions about FISIF or the services we offer, please contact o
 	</item>
 	<item>
 		<title>Loss Ratio Report</title>
-		<link>https://demo.ohmydocker.com/member/member-home/loss-ratio-report/</link>
+		<link>https://aa.webtechhq.com/member/member-home/loss-ratio-report</link>
 		<pubDate>Wed, 10 Aug 2016 15:09:15 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=685</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ft:member_loss_ratio_report]
@@ -2487,10 +2354,6 @@ If you have any questions about FISIF or the services we offer, please contact o
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_members-home.php]]></wp:meta_value>
@@ -2526,9 +2389,9 @@ If you have any questions about FISIF or the services we offer, please contact o
 	</item>
 	<item>
 		<title>E1 FORM REPORT SUBMITTED</title>
-		<link>https://demo.ohmydocker.com/member/member-home/submit-e1-form/e1-form-report-submitted/</link>
+		<link>https://aa.webtechhq.com/member/member-home/submit-e1-form/e1-form-report-submitted</link>
 		<pubDate>Sun, 11 Sep 2016 18:28:55 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=872</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Report Submitted Successfully</h1>
@@ -2547,19 +2410,15 @@ Your Employer's First Report of Injury (E-1) Form has been successfully submitte
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page_members-home.php]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Application Received</title>
-		<link>https://demo.ohmydocker.com/agent/contact-underwriting-staff-submit-application/application-received/</link>
+		<link>https://aa.webtechhq.com/agent/contact-underwriting-staff-submit-application/application-received</link>
 		<pubDate>Mon, 12 Sep 2016 02:28:02 +0000</pubDate>
-		<dc:creator><![CDATA[fisifadmin]]></dc:creator>
+		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=1017</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Thank You!</h2>
@@ -2577,10 +2436,6 @@ Your application was successfully submitted to FISIF for review.]]></content:enc
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
