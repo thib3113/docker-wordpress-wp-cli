@@ -22,3 +22,5 @@ $WP term create category Newsletter --slug='newsletter' --description='Newslette
 
 $WP import /assets/wxr/pages.xml --authors=skip
 $WP import /assets/wxr/contact_forms.xml --authors=skip
+
+$WP rewrite structure '/%postname%' --hard

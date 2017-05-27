@@ -3,6 +3,9 @@ BASEURL=$WORDPRESS_SITE_URL
 
 # setup menus - http://wp-cli.org/commands/menu/
 
+#################### Top Menu (Login/Logout Button) ##################################################################
+$WP menu location assign top-menu top-menu
+
 #################### main-menu #######################################################################################
 $WP menu create main-menu
 $WP menu location assign main-menu main-menu
