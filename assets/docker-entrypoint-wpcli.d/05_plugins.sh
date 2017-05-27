@@ -17,8 +17,8 @@ $WP plugin install capability-manager-enhanced --activate
 $WP plugin install all-in-one-wp-security-and-firewall --activate
 $WP plugin install bwp-google-xml-sitemaps --activate
 $WP plugin install contact-form-7 --activate
-$WP plugin install postman-smtp --activate
-$WP plugin install listo --activate
+$WP plugin install postman-smtp
+$WP plugin install listo
 $WP plugin install custom-login --activate
 $WP plugin install disable-password-reset --activate
 $WP plugin install simple-pdf-exporter --activate

@@ -4,6 +4,7 @@ BASEURL=$WORDPRESS_SITE_URL
 # setup menus - http://wp-cli.org/commands/menu/
 
 #################### Top Menu (Login/Logout Button) ##################################################################
+$WP menu create top-menu
 $WP menu location assign top-menu top-menu
 
 #################### main-menu #######################################################################################
@@ -13,11 +14,11 @@ $WP menu location assign main-menu main-menu
 $WP menu item add-custom main-menu "Home" "$BASEURL"
 
 about_fisif_id=$($WP menu item add-custom main-menu "About-AA" "$BASEURL/about-aa" --porcelain)
-$WP menu item add-custom main-menu "History" "$BASEURL/about-fisif/history" --parent-id=$about_fisif_id
-$WP menu item add-custom main-menu "How-The-Fund-Works" "$BASEURL/about-fisif/how-the-fund-works" --parent-id=$about_fisif_id
-$WP menu item add-custom main-menu "Board-of-Trustees" "$BASEURL/about-fisif/board-of-trustees" --parent-id=$about_fisif_id
-$WP menu item add-custom main-menu "Staff" "$BASEURL/about-fisif/staff" --parent-id=$about_fisif_id
-$WP menu item add-custom main-menu "Testimonials" "$BASEURL/about-fisif/testimonials" --parent-id=$about_fisif_id
+$WP menu item add-custom main-menu "History" "$BASEURL/about-aa/history" --parent-id=$about_fisif_id
+$WP menu item add-custom main-menu "How-The-Fund-Works" "$BASEURL/about-aa/how-the-fund-works" --parent-id=$about_fisif_id
+$WP menu item add-custom main-menu "Board-of-Trustees" "$BASEURL/about-aa/board-of-trustees" --parent-id=$about_fisif_id
+$WP menu item add-custom main-menu "Staff" "$BASEURL/about-aa/staff" --parent-id=$about_fisif_id
+$WP menu item add-custom main-menu "Testimonials" "$BASEURL/about-aa/testimonials" --parent-id=$about_fisif_id
 
 news_id=$($WP menu item add-custom main-menu "News" "$BASEURL/news" --porcelain)
 $WP menu item add-custom main-menu "Calendar-of-Events" "$BASEURL/category/events" --parent-id=$news_id
@@ -43,12 +44,13 @@ $WP menu item add-custom main-menu "Resources" "$BASEURL/member/member-home/reso
 
 agent_id=$($WP menu item add-custom main-menu "Agent" "$BASEURL/agent" --porcelain)
 $WP menu item add-custom main-menu "Become-An-Agent" "$BASEURL/agent/become-an-agent" --parent-id=$agent_id
-agent_home_id=$($WP menu item add-custom main-menu "Agent-Home" "$BASEURL/agent/agent-home" --parent-id=$agent_id --porcelain)
 $WP menu item add-custom main-menu "Submit-Quote-Application" "$BASEURL/agent/submit-quote-application" --parent-id=$agent_id
 $WP menu item add-custom main-menu "Application-Forms" "$BASEURL/agent/application-forms" --parent-id=$agent_id
+agent_home_id=$($WP menu item add-custom main-menu "Agent-Home" "$BASEURL/agent/agent-home" --parent-id=$agent_id --porcelain)
 $WP menu item add-custom main-menu "Rates" "$BASEURL/agent/agents-home/rates" --parent-id=$agent_home_id
 $WP menu item add-custom main-menu "Agent-Premium-Estimator" "$BASEURL/agent/agents-home/agent-premium-estimator" --parent-id=$agent_home_id
 $WP menu item add-custom main-menu "Agent-Commision-Report" "$BASEURL/agent/agents-home/commission-report" --parent-id=$agent_home_id
+
 
 $WP menu item add-custom main-menu "Contact-Us" "$BASEURL/contact"
 
