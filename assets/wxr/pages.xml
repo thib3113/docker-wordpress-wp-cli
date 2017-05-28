@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.5" created="2017-05-28 17:57" -->
+<!-- generator="WordPress/4.7.5" created="2017-05-28 19:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Adjusting Alternatives</title>
 	<link>https://aa.webtechhq.com</link>
 	<description>Workers Compensation Insurance in New Mexico</description>
-	<pubDate>Sun, 28 May 2017 17:57:28 +0000</pubDate>
+	<pubDate>Sun, 28 May 2017 19:19:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://aa.webtechhq.com</wp:base_site_url>
 	<wp:base_blog_url>https://aa.webtechhq.com</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[aa-admin]]></wp:author_login><wp:author_email><![CDATA[james@ohmydocker.com]]></wp:author_email><wp:author_display_name><![CDATA[aa-admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[aa-admin]]></wp:author_login><wp:author_email><![CDATA[tana@fisif.com]]></wp:author_email><wp:author_display_name><![CDATA[aa-admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 
 	<generator>https://wordpress.org/?v=4.7.5</generator>
@@ -707,13 +707,13 @@ If you are a FISIF member and would like to get involved in workers’ compensat
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>FISIF Members</title>
+		<title>Adjusting Alternatives Members</title>
 		<link>https://aa.webtechhq.com/member</link>
 		<pubDate>Sun, 20 Mar 2016 21:47:28 +0000</pubDate>
 		<dc:creator><![CDATA[aa-admin]]></dc:creator>
 		<guid isPermaLink="false">http://fisif-demo.ohmydocker.com:7771/?page_id=166</guid>
 		<description></description>
-		<content:encoded><![CDATA[FISIF Members can file a claim on-line, check payment history, print necessary forms and find safety resources.   Please log in to access your account.   If you do not have a username and password, please contact our office by email at<strong> <a href="mailto:memberservices@fisif.com">memberservices@fisif.com</a> </strong>or by phone at (505) 298-9095.  If contacting us by email, please provide your Member number and Federal Employer Identification Number (FEIN).  If contacting us by phone, please have that information readily available.]]></content:encoded>
+		<content:encoded><![CDATA[Adjusting Alternatives Members can file a claim on-line, check payment history, print necessary forms and find safety resources.   Please log in to access your account.   If you do not have a username and password, please contact our office by email at<strong> <a href="mailto:memberservices@adjustingalternatives.com">memberservices@adjustingalternatives.com</a> </strong>or by phone at (505) 298-9095.  If contacting us by email, please provide your Member number and Federal Employer Identification Number (FEIN).  If contacting us by phone, please have that information readily available.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2016-03-20 21:47:28]]></wp:post_date>
@@ -754,6 +754,10 @@ If you are a FISIF member and would like to get involved in workers’ compensat
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
