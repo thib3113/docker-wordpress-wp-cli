@@ -33,10 +33,11 @@ RUN apt-get update && apt-get install -y sudo less vim wget unzip mysql-client &
   apt-get clean && \
   rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* && \
   chmod +x /assets/docker-entrypoint-wpcli.d/*.sh && \
-  chmod +x /assets/init.sh && \
-  apt-get remove -y git cmake linux-headers-amd64 build-essential libssl-dev libboost-dev libboost-thread-dev libboost-system-dev libsqlite3-dev libcurl4-openssl-dev libusb-dev zlib1g-dev libudev-dev && \
-     apt-get autoremove -y && \
-     apt-get clean && \
-     rm -rf /var/lib/apt/lists/*
+  chmod +x /assets/init.sh;
+
+#  apt-get remove -y git cmake linux-headers-amd64 build-essential libssl-dev libboost-dev libboost-thread-dev libboost-system-dev libsqlite3-dev libcurl4-openssl-dev libusb-dev zlib1g-dev libudev-dev && \
+#     apt-get autoremove -y && \
+#     apt-get clean && \
+#     rm -rf /var/lib/apt/lists/*
 
 CMD /assets/init.sh
