@@ -41,4 +41,4 @@ RUN apt-get update && apt-get install -y sudo less vim wget unzip mysql-client &
 #     apt-get clean && \
 #     rm -rf /var/lib/apt/lists/*
 
-CMD ["/bin/bash","/assets/init.sh"]
+CMD ["/bin/bash","apache2-foreground"]

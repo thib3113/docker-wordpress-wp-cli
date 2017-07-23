@@ -1,6 +1,6 @@
 # Global parameter defaults
 path: /var/www/html
-url: https://aa.webtechhq.com
+url: http://aa.webtechhq.com
 user: aa-admin
 color: false
 
