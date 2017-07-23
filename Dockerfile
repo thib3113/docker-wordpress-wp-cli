@@ -41,4 +41,4 @@ RUN  apt-get remove -y git cmake linux-headers-amd64 build-essential libssl-dev 
      apt-get clean && \
      rm -rf /var/lib/apt/lists/*
 
-CMD /assets/init.sh
+CMD ["/bin/bash","/assets/init.sh"]
