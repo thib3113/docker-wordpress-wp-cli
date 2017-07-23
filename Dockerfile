@@ -36,9 +36,9 @@ RUN apt-get update && apt-get install -y sudo less vim wget unzip mysql-client &
   chmod +x /assets/init.sh;
 
 # Cleanup
-RUN  apt-get remove -y git cmake linux-headers-amd64 build-essential libssl-dev libboost-dev libboost-thread-dev libboost-system-dev libsqlite3-dev libcurl4-openssl-dev libusb-dev zlib1g-dev libudev-dev && \
-     apt-get autoremove -y && \
-     apt-get clean && \
-     rm -rf /var/lib/apt/lists/*
+#RUN  apt-get remove -y git cmake linux-headers-amd64 build-essential libssl-dev libboost-dev libboost-thread-dev libboost-system-dev libsqlite3-dev libcurl4-openssl-dev libusb-dev zlib1g-dev libudev-dev && \
+#     apt-get autoremove -y && \
+#     apt-get clean && \
+#     rm -rf /var/lib/apt/lists/*
 
 CMD ["/bin/bash","/assets/init.sh"]
