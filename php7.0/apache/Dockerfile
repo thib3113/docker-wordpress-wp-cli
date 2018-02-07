@@ -3,7 +3,7 @@
 # Docker Hub: https://registry.hub.docker.com/u/conetix/wordpress-with-wp-cli/
 # Github Repo: https://github.com/conetix/docker-wordpress-wp-cli
 
-FROM wordpress:latest
+FROM wordpress:php7.0-apache
 
 ENV WORDPRESS_DB_USER="" \
   WORDPRESS_DB_PASSWORD="" \
